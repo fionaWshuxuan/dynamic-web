@@ -1,4 +1,4 @@
-# dynamic-web
+# dynamic-web-w1
 ITP25SPRING-class assignment for dynamic website
 
 ## W1- Setting Up and Web Art
